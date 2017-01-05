@@ -1,2 +1,4 @@
+v1.0.1
+  - "better" silent sounds (i hope)
 v1.0.0
   - initial release
